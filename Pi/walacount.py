@@ -1,3 +1,7 @@
+# MODIFIED THE PEOPLE COUNTER CODE TO TRIGGER ALARM OFF WHEN A PERSON CROSS THE DOOR
+#
+#
+#
 from __future__ import print_function # WalabotAPI works on both Python 2 an 3.
 from sys import platform
 from os import system
