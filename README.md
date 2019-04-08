@@ -45,4 +45,4 @@ Patrick invites you to practice meditation in the morning.
 #### Benefit - Meditation in the morning will make your whole day awesome and relaxed :)
 
 ## Want to build?
-Follow detailed tutorial on ![Hackster](https://www.hackster.io/madhurgupta10/walaalarm-walabot-based-fun-alarm-clock-say-no-to-snooze-b225f9).
+Follow detailed tutorial on [Hackster](https://www.hackster.io/madhurgupta10/walaalarm-walabot-based-fun-alarm-clock-say-no-to-snooze-b225f9).
