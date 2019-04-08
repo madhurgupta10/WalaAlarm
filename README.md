@@ -43,3 +43,6 @@ Patrick invites you to practice meditation in the morning.
 >Select meditate mode on the WalaAlarm App and place the walabot on the wall. When alarm goes on sit in front of your walabot and gently breath for 2 min and wait for the alarm to go off.
 
 #### Benefit - Meditation in the morning will make your whole day awesome and relaxed :)
+
+## Want to build?
+Follow detailed tutorial on ![Hackster](https://www.hackster.io/madhurgupta10/walaalarm-walabot-based-fun-alarm-clock-say-no-to-snooze-b225f9).
